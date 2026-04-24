@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FROMZERO-wEjL.aternos.me:54298",
+    "ip": "FROMZERO-wEjL.aternos.me",
     "port": 54298,
     "version": "1.21.1"
   },
